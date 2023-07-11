@@ -1,4 +1,4 @@
 # GirExpertApp
 
-Este es mi repositorio del proyecto de Gir Expert App de React
+Este es mi repositorio del proyecto de Gif Expert App de React
 
